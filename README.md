@@ -1,6 +1,6 @@
-# air - a better css grid
+# air - css grids made easy
 
-css grids, made easy
+this will become a description but it isn't there yet
 
 ## tutorial
 
