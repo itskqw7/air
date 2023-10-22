@@ -1,6 +1,6 @@
-# air
+# air - a better css grid
 
-A automatic CSS positioning tool 
+css grids, made easy
 
 ## tutorial
 
